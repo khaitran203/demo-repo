@@ -1,0 +1,6 @@
+name: python_base
+channels: 
+  - conda-forge
+  - defaults
+dependencies:
+  - python
